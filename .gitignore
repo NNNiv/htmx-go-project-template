@@ -1,0 +1,3 @@
+node_modules
+tmp
+/internal/templates/*_templ.go

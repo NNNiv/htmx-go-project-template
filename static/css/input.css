@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+  @font-face {
+    font-family: 'PKMN RBYGSC';
+    src: url(/static/fonts/PKMN_RBYGSC.ttf)
+  }
+}
